@@ -22,13 +22,5 @@ int main()
     cout << "¬вед≥ть д≥ю";
     cin >> z;
 
-    //обробка та вивод данних
-    if (z == "+")
-        cout << x + y;
-    if (z == "-")
-        cout << x - y;
-    if (z == "*")
-        cout << x * y;
-    if (z == "/")
-        cout << x * y;
+   
 }
